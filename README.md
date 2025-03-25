@@ -2,7 +2,7 @@
 
 A cross-platform application to download sound effects from the BBC Sound Effects library with enhanced multi-threading, modern UI, and robust error handling.
 
-![BBC Sound Effects Downloader Screenshot](screenshot.png)
+
 
 ## About This Fork
 
